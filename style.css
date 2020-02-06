@@ -1,0 +1,28 @@
+*{
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: #F2F4F9;
+}
+.intro{
+    height: 100vh;
+    display: flex;
+    font-family: 'Copse', serif;
+    letter-spacing: 0.1em;
+    align-items: center;
+    font-size: 1.5em;
+    flex-direction: row;
+}
+.empty{
+    background-color: black;
+    flex: 0.1;
+}
+.intro-content{
+    flex: 1;
+}
+span{
+    color: #F05D7b;
+}
