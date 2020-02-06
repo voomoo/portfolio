@@ -6,11 +6,11 @@
 }
 body{
     background-color: #F2F4F9;
+    font-family: 'Coustard', serif;
 }
 .intro{
     height: 100vh;
     display: flex;
-    font-family: 'Copse', serif;
     letter-spacing: 0.1em;
     align-items: center;
     font-size: 1.5em;
@@ -22,7 +22,47 @@ body{
 }
 .intro-content{
     flex: 1;
+    font-family: 'ZCOOL KuaiLe', cursive;
 }
 span{
     color: #F05D7b;
+}
+.i-do{
+    margin-left: 80px;
+    margin-right: 80px;
+    background-color: #FFFFFF;
+    height: 100vh;
+    flex-direction: column;
+    display: flex;
+}
+.i-do2{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+    font-family: 'Copse', serif;
+    letter-spacing: .1em;
+    color: #F05D7b;
+}
+.i-do3, .i-do4{
+    flex: 1;
+    display: flex;
+    margin: 40px;
+    font-size: 1.1em;
+    
+    justify-content: center;
+    align-items: center;
+}
+.ui, .front-end, .android, .problem{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    background-color: rgba(240, 93, 122, 0.50);
+    margin-left: 20px;
+    border-radius: 15px;
+}
+.omg, .txt{
+    padding: 10px;
 }
