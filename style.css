@@ -11,7 +11,6 @@ body{
 .intro{
     height: 100vh;
     display: flex;
-    letter-spacing: 0.1em;
     align-items: center;
     font-size: 1.5em;
     flex-direction: row;
@@ -22,7 +21,7 @@ body{
 }
 .intro-content{
     flex: 1;
-    font-family: 'ZCOOL KuaiLe', cursive;
+    font-family: 'Ubuntu', sans-serif;
 }
 span{
     color: #F05D7b;
@@ -41,7 +40,7 @@ span{
     justify-content: center;
     align-items: center;
     font-size: 2em;
-    font-family: 'Copse', serif;
+    font-family: 'Ubuntu', sans-serif;
     letter-spacing: .1em;
     color: #F05D7b;
 }
