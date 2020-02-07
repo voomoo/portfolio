@@ -86,9 +86,6 @@ h4{
 
 @media screen and (max-width: 900px){
     
-    body{
-        padding: 10px;
-    }
     .intro-content{
         font-size: 80%;
     }
@@ -96,7 +93,7 @@ h4{
         width: 90%;
     }
     .i-do{
-        height: 200vh;
+        height: auto;
     }
     .ui, .front-end, .android, .problem{
         flex-direction: column;
