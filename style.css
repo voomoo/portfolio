@@ -99,6 +99,7 @@ h4{
     .ui, .front-end, .android, .problem{
         flex-direction: row;
         margin: 10px;
+        width: 90%;
     }
     .fau{
         border: none;
