@@ -66,3 +66,9 @@ span{
 .omg, .txt{
     padding: 10px;
 }
+.omg{
+    border-right: 4px solid #F05D7b;
+}
+h6{
+    border-right: 4px solid #F05D7b;
+}
