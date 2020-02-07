@@ -78,6 +78,9 @@ span{
     height: 80px;
     padding-left: 10px;
 }
+h4{
+    border-bottom: 2px solid #F05D7b;
+}
 
 @media screen and (max-width: 900px){
     
@@ -94,7 +97,7 @@ span{
         height: 200vh;
     }
     .ui, .front-end, .android, .problem{
-        flex-wrap: wrap;
+        flex-direction: row;
         margin: 10px;
     }
     .fau{
