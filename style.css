@@ -90,6 +90,9 @@ span{
     .me-img{
         width: 90%;
     }
+    .i-do{
+        height: 200vh;
+    }
     .ui, .front-end, .android, .problem{
         flex-wrap: wrap;
         margin: 10px;
