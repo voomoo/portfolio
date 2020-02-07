@@ -29,8 +29,6 @@ span{
     color: #F05D7b;
 }
 .i-do{
-    margin-left: 80px;
-    margin-right: 80px;
     background-color: #FFFFFF;
     height: 100vh;
     flex-direction: column;
@@ -59,8 +57,9 @@ span{
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 40px;
-    background-color: rgba(240, 93, 122, 0.50);
+    flex: 1;
+    padding: 50px 20px;
+    background-color: rgba(240, 93, 122, 0.25);
     margin-left: 20px;
     border-radius: 15px;
 }
