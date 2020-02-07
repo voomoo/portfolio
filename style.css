@@ -7,6 +7,8 @@
 body{
     background-color: #F2F4F9;
     font-family: 'Coustard', serif;
+    display: flex;
+    flex-direction: column;
 }
 .intro{
     height: 100vh;
@@ -97,7 +99,7 @@ h4{
         height: 200vh;
     }
     .ui, .front-end, .android, .problem{
-        flex-direction: row;
+        flex-direction: column;
         margin: 10px;
         width: 90%;
     }
