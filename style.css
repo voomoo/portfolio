@@ -83,6 +83,9 @@ span{
 h4{
     border-bottom: 2px solid #F05D7b;
 }
+h6{
+    text-align: center;
+}
 
 @media screen and (max-width: 900px){
     
@@ -109,5 +112,8 @@ h4{
     .i-do3, .i-do4{
         margin: 0px;
         flex-direction: column;
+    }
+    p.txt{
+        text-align: center;
     }
 }
